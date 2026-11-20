@@ -1,4 +1,4 @@
-# Never upload: patient data, keys, local settings
+﻿# Never upload: patient data, keys, local settings
 database/
 *.sqlite3
 *.sqlite3-*
@@ -19,5 +19,3 @@ __pycache__/
 .claude/
 Open Live Excel folder.url
 
-# not part of the health center project
-nishi ney niga niga ney ney (1).html
